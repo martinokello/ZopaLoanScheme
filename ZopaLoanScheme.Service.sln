@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZopaLoanScheme", "BankLoanScheme\ZopaLoanScheme.csproj", "{C9EC157A-E2BA-48AB-AFEB-5C79998DAB98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankLoanScheme.Tests", "BankLoanScheme.Tests\BankLoanScheme.Tests.csproj", "{B5CC3BD6-E40A-4467-9490-BD6D06ABCD1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9EC157A-E2BA-48AB-AFEB-5C79998DAB98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9EC157A-E2BA-48AB-AFEB-5C79998DAB98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9EC157A-E2BA-48AB-AFEB-5C79998DAB98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9EC157A-E2BA-48AB-AFEB-5C79998DAB98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5CC3BD6-E40A-4467-9490-BD6D06ABCD1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5CC3BD6-E40A-4467-9490-BD6D06ABCD1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5CC3BD6-E40A-4467-9490-BD6D06ABCD1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5CC3BD6-E40A-4467-9490-BD6D06ABCD1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
