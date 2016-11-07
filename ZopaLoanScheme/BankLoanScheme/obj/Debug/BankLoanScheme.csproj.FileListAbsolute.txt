@@ -1,0 +1,5 @@
+C:\C#Projects\BankLoanScheme\BankLoanScheme\bin\Debug\BankLoanScheme.exe.config
+C:\C#Projects\BankLoanScheme\BankLoanScheme\bin\Debug\BankLoanScheme.exe
+C:\C#Projects\BankLoanScheme\BankLoanScheme\bin\Debug\BankLoanScheme.pdb
+C:\C#Projects\BankLoanScheme\BankLoanScheme\obj\Debug\BankLoanScheme.exe
+C:\C#Projects\BankLoanScheme\BankLoanScheme\obj\Debug\BankLoanScheme.pdb

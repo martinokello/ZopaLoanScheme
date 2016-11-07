@@ -1,0 +1,14 @@
+C:\C#Projects\BankLoanScheme\BankLoanScheme.Tests\bin\Debug\BankLoanScheme.Tests.dll
+C:\C#Projects\BankLoanScheme\BankLoanScheme.Tests\bin\Debug\BankLoanScheme.Tests.pdb
+C:\C#Projects\BankLoanScheme\BankLoanScheme.Tests\bin\Debug\BankLoanScheme.exe
+C:\C#Projects\BankLoanScheme\BankLoanScheme.Tests\bin\Debug\BankLoanScheme.pdb
+C:\C#Projects\BankLoanScheme\BankLoanScheme.Tests\obj\Debug\BankLoanScheme.Tests.csprojResolveAssemblyReference.cache
+C:\C#Projects\BankLoanScheme\BankLoanScheme.Tests\obj\Debug\BankLoanScheme.Tests.dll
+C:\C#Projects\BankLoanScheme\BankLoanScheme.Tests\obj\Debug\BankLoanScheme.Tests.pdb
+C:\C#Projects\ZopaLoanScheme\BankLoanScheme.Tests\bin\Debug\BankLoanScheme.Tests.dll
+C:\C#Projects\ZopaLoanScheme\BankLoanScheme.Tests\bin\Debug\BankLoanScheme.Tests.pdb
+C:\C#Projects\ZopaLoanScheme\BankLoanScheme.Tests\bin\Debug\BankLoanScheme.exe
+C:\C#Projects\ZopaLoanScheme\BankLoanScheme.Tests\bin\Debug\BankLoanScheme.pdb
+C:\C#Projects\ZopaLoanScheme\BankLoanScheme.Tests\obj\Debug\BankLoanScheme.Tests.csprojResolveAssemblyReference.cache
+C:\C#Projects\ZopaLoanScheme\BankLoanScheme.Tests\obj\Debug\BankLoanScheme.Tests.dll
+C:\C#Projects\ZopaLoanScheme\BankLoanScheme.Tests\obj\Debug\BankLoanScheme.Tests.pdb
